@@ -1,2 +1,2 @@
 # hello_world
-This is a demo repository for learn using Git and GitHub.
+This is a demo repository for learn Git and GitHub.
